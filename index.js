@@ -5,7 +5,7 @@
 // @description  Hides the prompt to log in when browsing the site.
 // @author       cin-ni
 // @run-at       document-idle
-// @match        https://ask.fm/
+// @match        https://ask.fm/*
 // @icon         https://www.google.com/s2/favicons?domain=ask.fm
 // @grant        none
 // ==/UserScript==
